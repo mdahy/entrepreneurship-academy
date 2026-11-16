@@ -1,0 +1,9 @@
+{
+  "name": "Social Entrepreneurship Academy",
+  "short_name": "SEA",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#ffffff",
+  "theme_color": "#d1139d",
+  "icons": [{ "src": "/assets/img/favicon.png", "sizes": "192x192", "type": "image/png" }]
+}
